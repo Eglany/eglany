@@ -9,8 +9,8 @@
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 Front-end 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
-- 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 to be a Software Engineer at <a href = "https://www.betrybe.com/" target="_blank">Trybe</a>
-- 🌱 I’m currently learning **MySQL**
+- 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 to be a WEB DEVELOPER at <a href = "https://www.betrybe.com/" target="_blank">Trybe</a>
+- 🌱 I’m currently learning **NODE**
 
 ## 🛠️ Skills and Tools
 <h4>Languages:<h4/>

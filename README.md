@@ -8,7 +8,7 @@
 </div>
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 🖥 FUll-Stack 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
+- 🖥 Full Stack 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
 - 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 to be a WEB DEVELOPER at <a href = "https://www.betrybe.com/" target="_blank">Trybe</a>
 - 🌱 I’m currently learning **MONGODB**
 

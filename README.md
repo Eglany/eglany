@@ -17,6 +17,7 @@
 <p>
  <!-- JavaScript -->
 <a href="https://devdocs.io/javascript/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 </p>
 
 <h4>Utility Tools:</h4>
@@ -47,6 +48,10 @@
 <p>
  <!--MySQL -->
 <a href="https://dev.mysql.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="My SQL" width="40" height="40"/> </a>
+<p>
+ <!--MongoDB -->          
+<a href="https://www.mongodb.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="Mongo DB"  width="40" height="40"/>
+</a>
 </p>
 
 <h4>Testing Tools:</h4>

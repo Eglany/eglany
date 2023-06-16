@@ -46,7 +46,11 @@
   
 <h4>Back-End Development:</h4>
 <p>
- <!--MySQL -->
+<!--Express -->
+<a href="https://expressjs.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+<!--Sequelize -->
+<a href="https://sequelize.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original-wordmark.svg" alt="sequelize" width="40" height="40"/> </a>
+<!--MySQL -->
 <a href="https://dev.mysql.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="My SQL" width="40" height="40"/> </a>
  <!--MongoDB -->          
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="Mongo DB"  width="40" height="40"/> </a>

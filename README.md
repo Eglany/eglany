@@ -11,8 +11,8 @@
 </div>
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 🖥 Full Stack 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
-- 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 Information System at <a href = "https://fametro.edu.br/" target="_blank">FAMETRO</a>
+- 🖥 Full Stack developer
+- 🎓 Studying Information System at <a href = "https://fametro.edu.br/" target="_blank">FAMETRO</a>
 - 🎓 <a href = "https://www.betrybe.com/" target="_blank">Trybe</a> certified web developer
 - 🌱 I’m currently learning **TypeScript**
 
